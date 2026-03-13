@@ -1,5 +1,3 @@
-// Cart functionality for MetaFV Store
-// Stores cart in localStorage and renders a floating cart panel
 
 const CART_STORAGE_KEY = 'MetaFVStore_Cart';
 
